@@ -1,0 +1,26 @@
+.component {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.component h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.component ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.component li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.component li:last-child {
+  border-bottom: none;
+}
